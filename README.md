@@ -1,4 +1,5 @@
 # Intrusion Detection of Imbalanced Network Traffic using Machine Learning and Deep Learning
+This project focuses on Intrusion Detection of Imbalanced Network Traffic using Machine Learning and Deep Learning techniques. The cic-ids2017 dataset was preprocessed and balanced using the difficult set sampling technique. Various machine learning and deep learning models were trained on this balanced dataset to detect network intrusions. The goal of this project is to provide an efficient and accurate solution to detect network intrusions in imbalanced network traffic using machine learning and deep learning.
 
 ### _Steps_
 1. Download the CIC-IDS2017 datasets: [Click Here] or [Merged Dataset]
